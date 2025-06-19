@@ -1,0 +1,2 @@
+iSchool-x86_64-1.0.0.exe filter=lfs diff=lfs merge=lfs -text
+iSchool-Desktop/libcef.dll filter=lfs diff=lfs merge=lfs -text

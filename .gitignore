@@ -1,0 +1,7 @@
+# .gitignore
+.env
+*.log
+/vendor
+node_modules
+webcache
+iSchool-x86_64-1.0.0.exe
